@@ -78,19 +78,20 @@ builder.Services.AddAuthorization(options =>
 });
 
 var app = builder.Build();
-
+app.Urls.Add("http://*:8080");
 app.UseCors("AllowAllOrigins");
 
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "SWICN API V1");
-    c.RoutePrefix = string.Empty;
+    c.RoutePrefix = string.Empty; 
 });
 
-app.UseHttpsRedirection();
+app.UseHttpsRedirection(); 
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
 app.Run();
+
