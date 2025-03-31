@@ -4884,6 +4884,7 @@
     "net9.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.3",
       "Microsoft.AspNetCore.OpenApi >= 9.0.3",
+      "Microsoft.EntityFrameworkCore >= 9.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.3",
       "Swashbuckle.AspNetCore >= 6.5.0"
@@ -4945,6 +4946,10 @@
             "version": "[9.0.3, )"
           },
           "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[9.0.3, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[9.0.3, )"
           },

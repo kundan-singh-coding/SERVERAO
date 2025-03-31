@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SWICN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b53ffb468b6c5521e176ce35d8fcb2ae576bff0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b282930f9fca7c8077b2200f87ad2b08aa037f97")]
 [assembly: System.Reflection.AssemblyProductAttribute("SWICN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SWICN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

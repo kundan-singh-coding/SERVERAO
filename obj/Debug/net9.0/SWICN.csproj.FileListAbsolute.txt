@@ -166,3 +166,4 @@ K:\UNBYSHED\SWICN\obj\Debug\net9.0\refint\SWICN.dll
 K:\UNBYSHED\SWICN\obj\Debug\net9.0\SWICN.pdb
 K:\UNBYSHED\SWICN\obj\Debug\net9.0\SWICN.genruntimeconfig.cache
 K:\UNBYSHED\SWICN\obj\Debug\net9.0\ref\SWICN.dll
+K:\UNBYSHED\SWICN\obj\Debug\net9.0\SWICN.sourcelink.json
